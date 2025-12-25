@@ -1,8 +1,6 @@
 # gazmod
 
-It's all shits and giggles until your friend gets stuck on Launching Session screen when starting a heist/mission
-
-Launching Session bug is fixed! Thx UnkEcho!
+ungrateful nįggas i fixed this shit when the original devs are messing with already working code
 
 ## How to use
 
