@@ -2,6 +2,8 @@
 
 ungrateful nįggas i fixed this shit when the original devs are messing with already working code
 
+i also merged customization so keep waiting centuries if you really want to use original
+
 ## How to use
 
 ~Download the latest version of FSL from [here](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html) and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety~
